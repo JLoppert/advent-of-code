@@ -151,5 +151,5 @@ class Solution
   end
 end
 
-# Solution.new.part1 # 5843
-Solution.new.part2
+Solution.new.part1 # 5843
+Solution.new.part2 # 26289
